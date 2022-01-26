@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138484535447",
+    "firebase_url": "https://testing-d28eb-default-rtdb.firebaseio.com",
+    "project_id": "testing-d28eb",
+    "storage_bucket": "testing-d28eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138484535447:android:8593075cfabc1e7e2859d2",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138484535447-ogmid91su99r2blat5gk3vk45104qav2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxM6dZ-HyFIihuu9-9pO3eznDZz2EXYqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138484535447-ogmid91su99r2blat5gk3vk45104qav2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
